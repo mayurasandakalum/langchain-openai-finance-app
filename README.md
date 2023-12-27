@@ -1,0 +1,1 @@
+Langchain openai finance app
