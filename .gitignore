@@ -1,2 +1,4 @@
 *.pkl
+*.env
+
 /faiss_index
