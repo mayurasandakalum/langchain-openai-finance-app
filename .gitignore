@@ -1,0 +1,2 @@
+*.pkl
+/faiss_index
